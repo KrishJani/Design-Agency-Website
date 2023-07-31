@@ -1,2 +1,4 @@
 # Design-Agency-Website
-A design agency website created using HTML/CSS
+A responsive design agency website created using HTML/CSS
+
+The website is live at - https://krishjani.github.io/Design-Agency-Website/
